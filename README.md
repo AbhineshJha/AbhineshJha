@@ -3,10 +3,11 @@
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineshjha&label=Profile%20views&color=0e75b6&style=flat" alt="abhineshjha" /> </p>
-- 🌱 I’m currently learning  **C++,Javascript**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineshjha&label=Profile%20views&color=df0707&style=plastic" alt="abhineshjha" /> </p>
 
-- 💬 Ask me about **Software Development,Mernstack**
+- 🌱 I’m currently learning **C++ , Javascript**
+
+- 💬 Ask me about **Software Development , Mernstack**
 
 - 📫 How to reach me **jhaabhinesh977@gmail.com**
 
@@ -14,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhineshjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhineshjha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/abhineshjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhineshjha" height="30" width="40" /></a>
 <a href="https://instagram.com/kartiikk_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartiikk_21" height="30" width="40" /></a>
 </p>
 
@@ -25,4 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhineshjha&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&locale=en" alt="abhineshjha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhineshjha&" alt="abhineshjha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhineshjha&theme=default" alt="abhineshjha" /></p>
+
