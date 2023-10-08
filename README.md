@@ -13,10 +13,14 @@
 
 - ⚡ Fun fact **I am an INTROVERT**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhineshjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhineshjha" height="30" width="40" /></a>
-<a href="https://instagram.com/kartiikk_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartiikk_21" height="30" width="40" /></a>
+### :man_technologist: &nbsp;Connect With Me :
+<p>
+<a href="https://www.linkedin.com/in/abhineshjha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<!-- <a href="https://www.linkedin.com/in/trapti-patel-12454923a/"><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"></a> -->
+<!-- <a href="https://www.linkedin.com/in/trapti-patel-12454923a/"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"></a> -->
+<a href="https://https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-red?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
