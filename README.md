@@ -29,7 +29,7 @@
 <h3 align="center">My hacktoberfest badge collection</h3>
 </br>
 
-[![An image of @abhineshjha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhineshjha)](https://holopin.io/@abhineshjha)
+[![@abhineshjha's Holopin badges](https://holopin.me/abhineshjha)](https://holopin.io/@abhineshjha)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhineshjha&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="abhineshjha" /></p>
