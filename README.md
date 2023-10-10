@@ -28,6 +28,7 @@
 
 <h3 align="center">My hacktoberfest badge collection</h3>
 </br>
+
 [![An image of @abhineshjha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhineshjha)](https://holopin.io/@abhineshjha)
 
 
