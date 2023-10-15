@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **I am an INTROVERT**
 
+  <h2 align="center">Holopin Badge Collection :</h2>
+</br>
+
+
    [![An image of @abhineshjha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhineshjha)](https://holopin.io/@abhineshjha)
 
 ### :man_technologist: &nbsp;Connect With Me :
