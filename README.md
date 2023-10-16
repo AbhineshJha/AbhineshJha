@@ -19,9 +19,8 @@
 
 ### :man_technologist: &nbsp;Connect With Me :
 <p>
-<a href="https://www.linkedin.com/in/abhineshjha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-red?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"></a>
-
+  
+<a href="https://linktr.ee/Abhinesh_Jha"><img src="https://img.shields.io/badge/Linktree-red?style=for-the-badge&logo=linktree&logoColor=blue" alt="Linktree Badge"></a>
 
 </p>
 
