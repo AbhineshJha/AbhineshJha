@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ , Javascript**
 
-- 💬 Ask me about **Software Development , Mernstack**
+- 💬 Ask me about **Software Development , MERN**
 
 - 📫 How to reach me **jhaabhinesh977@gmail.com** 
 
