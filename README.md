@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software Development , Mernstack**
 
-- 📫 How to reach me **jhaabhinesh977@gmail.com**
+- 📫 How to reach me **jhaabhinesh977@gmail.com** 
 
 - ⚡ Fun fact **I am an INTROVERT**
 
