@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am an INTROVERT**
 </br>
-<br/>
+
 
   <h2 align="center">Holopin Badge Collection :</h2>
 
