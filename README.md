@@ -12,6 +12,8 @@
 - 📫 How to reach me **jhaabhinesh977@gmail.com** 
 
 - ⚡ Fun fact **I am an INTROVERT**
+</br>
+<br/>
 
   <h2 align="center">Holopin Badge Collection :</h2>
 
