@@ -32,7 +32,7 @@
 </br>
 <h2 align="center"> HackSquad 2023 Winner🏆🚀 </h2>
 
-<p align="center"><img width="515" alt="image" src="https://github.com/AbhineshJha/AbhineshJha/assets/142514166/a632eedc-46ee-404c-8b5a-9ba1e7eafa8c"> 
+<p align="center"><a href="https://www.hacksquad.dev/ticket/AbhineshJha/"><img width="515" alt="image" src="https://github.com/AbhineshJha/AbhineshJha/assets/142514166/a632eedc-46ee-404c-8b5a-9ba1e7eafa8c"> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhineshjha&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="abhineshjha" /></p>
