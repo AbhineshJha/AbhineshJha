@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ , Javascript**
 
-- 💬 Ask me about **Software Development , MERN**
+- 💬 Ask me about **DSA , MERN**
 
 - 📫 How to reach me **jhaabhinesh977@gmail.com** 
 
