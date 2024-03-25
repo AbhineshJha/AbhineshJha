@@ -34,6 +34,7 @@
 
 -  **HackSquad 2023 Winner 🏆**
 - Rank 1 **IWOC2.0 🏆**
+- **SWOC'24 Winner 🏆**
 
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhineshjha&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="abhineshjha" /></p>
