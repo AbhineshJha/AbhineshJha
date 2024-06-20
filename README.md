@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineshjha&label=Profile%20views&color=df0707&style=plastic" alt="abhineshjha" /> </p>
 
-- 🌱 I’m currently learning **C++ , Javascript**
+- 🌱 I’m currently learning **C++ , Android Development**
 
-- 💬 Ask me about **DSA , MERN**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **jhaabhinesh977@gmail.com** 
 
